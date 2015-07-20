@@ -1,24 +1,24 @@
 
-   #Azazel Drop Attack v0.9 
+   # Azazel Drop Attack v0.9 
 
 
 	[![Screen Shot](https://wit.wurfl.io/f_jpg/w_1600/http://files.gta5-mods.com/images/azazel-drop-attack-lua/c850e4-2015-07-19_00007.jpg)](https://www.youtube.com/watch?v=0UPoGXK1IeM)
 
   
 	
-     #What is it?
+     # What is it?
 	
      A silly mod inspired by the character Azazel from the movie X-Men First Class. It gives you the ability to teleport          peds over their current position and drop them to their deaths
 	
 	
-     #Background
+     # Background
 	
      Sebastian Shaw is dead and Eric is on vacation with Emma in the Bahamas sipping drinks by the beach. Azazel never had       the stomach for laying around in the sun. Now addicted to Red Bull, he is board, full of energy and wants some action.
 	
 	You are in control of one of the most lethal mutants, Azazel, the Red Angel. Although you never see him (he is too fast for that) you will see the results ;-)	
 
 	
-    #Controls
+    # Controls
 	
     Press 'L' to summon Azazel, he will lift nearby peds and drop them. Have fun! 
 
