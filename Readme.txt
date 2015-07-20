@@ -6,26 +6,26 @@
 
   
 	
-     # What is it?
+     #What is it?
 	
      A silly mod inspired by the character Azazel from the movie X-Men First Class. It gives you the ability to teleport          peds over their current position and drop them to their deaths
 	
 	
-     # Background
+     #Background
 	
      Sebastian Shaw is dead and Eric is on vacation with Emma in the Bahamas sipping drinks by the beach. Azazel never had       the stomach for laying around in the sun. Now addicted to Red Bull, he is board, full of energy and wants some action.
 	
 	You are in control of one of the most lethal mutants, Azazel, the Red Angel. Although you never see him (he is too fast for that) you will see the results ;-)	
 
 	
-    # Controls
+    #Controls
 	
     Press 'L' to summon Azazel, he will lift nearby peds and drop them. Have fun! 
 
     Video of Real Azazel: https://www.youtube.com/watch?v=F5pcqKBy1H4&feature=youtu.be&t=20   
 	  
             
-    # Installation
+    #Installation
      1. Install Script Hook https://www.gta5-mods.com/tools/script-hook-v 
      2. Install the LUA script plugin for Scripthook https://www.gta5-mods.com/tools/lua-plugin-for-script-hook-v 
      3. Download the flatsMiniGame file
@@ -33,11 +33,11 @@
      5. Text will appear above the mini-map when installed correctly
  
     
-    # Known issues
+    #Known issues
      - there is a limit to the radius of peds affected. 
      - Some peds get stuck in the sky for some reason, you can shoot them down if you like ;-)
    
-    # Learn and share
+    #Learn and share
 	
 	This code is free to use and share, but please give credit and use in good will. 
 	
