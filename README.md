@@ -2,7 +2,7 @@
 
 ## What is it?
   
-A mod inspired by the character Azazel from the movie X-Men First Class. 
+A GTA V mod inspired by the character Azazel from the movie X-Men First Class. 
 
 [Video:](https://www.youtube.com/watch?v=0UPoGXK1IeM)
 
